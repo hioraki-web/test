@@ -6,9 +6,9 @@
 header("Content-type: text/html; charset=utf-8");
 // 设置跨域
 //    1.
-define('HOME', '127.0.0.1');
+define('HOME', '120.27.245.147:3306');
 define('UNAME', 'root');
-define('PWD', 'root');
+define('PWD', '123456');
 define('BANK', 'blogs');
 
 // 执行语句
